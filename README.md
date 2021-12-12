@@ -1,3 +1,3 @@
-# SudokuSolver
+# SudokuSolver - Personal Project
 
-A python code to solve sudoku puzzles using backtracking
+My first ever project :). A python code to solve sudoku puzzles using backtracking.
